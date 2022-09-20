@@ -1,4 +1,4 @@
-# **🥞 PancakeSwap Prediction v4.1 New Update  08/24/22 🥞**
+# **🥞 PancakeSwap Prediction v1.0.2 Latest version 9/19/2022 🥞**
 
 ![PancakeSwap-Logo-Big](logo.jpeg)
   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion/releases">
@@ -16,41 +16,15 @@
 
 
 This bot wins the majority of rounds on PancakeSwap based.
-This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
-
-## NEWS *Update 4.1*
-
-Thx to PancakeSwapUS <3
-
-our update is in planning. there's a lot coming your way.
-We know some bugs (Windows use)
-
-
-## *Our Team*
-
-![Our Team](https://i.ibb.co/8jR3Fcv/logo.png)
-
-- AssaEmpire (Owner/Programmer)
-- SavannahCat (Github, Reddit, Youtube and Twitter Support)
-- XBronx (Programmer)
-- K4L (Youtube Supporter)
-- Bear 'n Bull (New in our Team, Web3 Programmer)
-
-Thank u all <3
+This bot survived the beta and is now in the full version.
 
 
 
 
 
-## **Our YT Videos** 
-
-K4L: https://www.youtube.com/watch?v=7glaF_gIDj8&t=42s
+## **YT Video** 
 
 
-SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
-
-
-PancakeSwapUS: https://www.youtube.com/watch?v=pmoCL_iWqqA
 
 ## 💡 Installation.
 
@@ -130,29 +104,10 @@ Any reference to an investment's past or potential performance is not, and shoul
 ## 💼 License
 MIT License
 
-## our thanks:
-
-BOT is free-to-use, but you are welcome to appreciate my work ☺️
-
-ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
-
-BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
-  
-Thank's to Empaticgame! spend: 0,8 BNB ❤️
-
 
 
 
 
 ## 📧 If you need some help contact me
 
-***support@assaempire.eu***
-
-
-
-## Reddit Hater's 
- 
-![Hater's](https://cdn.arstechnica.net/wp-content/uploads/2019/03/reddit-games-silence.png)
-  
-  
-**We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The AssaEmpire Team will contact Github with the problems so that this no longer occurs. Thank you for reading and have fun :)**
+***seethezuck@gmail.com***
