@@ -1,19 +1,5 @@
 # **🥞 PancakeSwap Prediction v1.0.2 Latest version 9/19/2022 🥞**
 
-![PancakeSwap-Logo-Big](logo.jpeg)
-  <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion/releases">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/followers/SavannahCatToken?style=social">
-  </a>
-  <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/stars/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion?style=social">
-  </a>
-   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/SavannahCatToken/PancakeswapPredictionBot-Fullversion?style=social">
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=SavannaCatToken">
-    <img src="https://img.shields.io/twitter/follow/SavannaCatToken?style=social" alt="Follow @SavannahCat" />
-  </a>
-
 
 This bot wins the majority of rounds on PancakeSwap based.
 This bot survived the beta and is now in the full version.
