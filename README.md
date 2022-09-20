@@ -11,6 +11,7 @@ This bot survived the beta and is now in the full version.
 
 ## **YT Video** 
 
+https://youtu.be/75G2oqGRG2s
 
 
 ## 💡 Installation.
