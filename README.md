@@ -22,7 +22,7 @@ https://nodejs.org/en/download/
 
 Then run command prompt or powershell
 
-- Type ``cd PancakeSwap Prediction v1.0.0`` (replace with your cloned/downloaded bot folder)
+- Type ``cd CocoonBot-Pancakeswap-prediction`` (replace with your cloned/downloaded bot folder)
 - Type ``npm i``
 
 ## 🗺️ Usage  
