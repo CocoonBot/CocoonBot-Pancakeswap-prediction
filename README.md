@@ -7,6 +7,7 @@ This bot survived the beta and is now in the full version.
 
 
 
+![PancakeSwap-Logo-Big](logo.jpeg)
 
 ## **YT Video** 
 
